@@ -1,0 +1,8 @@
+apple,889,190
+carrot,600,60
+cucumber,899,30
+egg plant,1100,20
+garlic,298,70
+orange,1298,90
+pineapple,546,13
+zuccini,1300,10
